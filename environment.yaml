@@ -1,0 +1,11 @@
+# environment.yaml
+
+name: bayop
+channels:
+  - conda-forge
+dependencies:
+  - python==3.11.9
+  - anaconda
+  - pip
+  - pip:
+    - -r requirements.txt
