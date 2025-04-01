@@ -1,0 +1,19 @@
+{
+    "pbounds": {
+      "a": [2, 4],
+      "b": [-3, 3],
+      "c": [-8, 3],
+      "d": [0, 5],
+      "e": [-2, 2]
+    },
+    "optimizer_settings": {
+      "init_points": 5,
+      "n_iter": 25,
+      "acq": "ei"
+    },
+    "model_parameters": {
+      "learning_rate": 0.01,
+      "batch_size": 32
+    }
+  }
+  
