@@ -1,0 +1,83 @@
+>>> General <<<
+Filename: PLD144-147_2018-06-25.CSV
+Equipment/system: PVD Products Nano PLD
+Operator name(s): Wayne McGinnis
+Start date: 2018-06-25
+Start time (Pacific time): 14:00
+First sample ID: PLD144
+Last sample ID: PLD147
+Laser wavelength (nm): 248
+Target ID: TGT61
+Target diameter (in): 1
+Single target composition: BDFO, Bi:Dy:Fe = 0.405:0.047:0.548
+Split target side A composition:
+Split target side B composition:
+Substrate(s) (material, orientation, size): highly-doped Si, (100), 1 cm x 1 cm
+Custom 1:
+Custom 2:
+Custom 3:
+
+>>> Notes <<<
+On 6/21/2018, substrates and target cleaned ("sanded" with Scotchbrite, swabbed with methanol, blown dry with N2) and placed in chamber as on 6/20/2018.
+
+On 6/25/2018, chamber pumped out with turbopump starting @ ~1400. At 1420, chamber pressure is 3.2E-6 Torr. Substrate heater and cooling water set as on 5/18/2017.
+
+At 1430, laser pressure is 2971 mbar. For deposition, laser voltage set to 30 kV, and laser energy measured at laser exit (5Hz, avg 15 pulses, 147 mJ). Based on 3/1/2018 measurements, this will give a beam energy of (147 mJ)*(5.2/14.5)=52.7 mJ at the target.
+
+At 1435 base pressure (gas line valve open) is 2.5E-6 Torr. O2 flow set as listed, and chamber pressure (read with Convectron gauge 1) adjusted by manually throttling the turbopump gate valve (adjusted periodically over course of deposition).
+
+Starting position S of beam rastering mirror set to Z=25000, with vernier set to 5.0. Position/velocity pair values of mirror raster program set to: (1) S+3800, 60, (2) S, 60, (3) S-3800,60, (4) S, 60.
+
+With substrate shutter closed, started target rotation and mirror rastering, and ablated target (starting at 1445) for 30 minutes to condition the target surface (i.e., to reach a steady state surface composition).
+
+Heater started @ 1446. Heater temperature reached 690C @ 1508.
+
+To begin film deposition, substrate rotation started (@ 1513), and substrate shutter opened (set to 300 deg). Started deposition @ 1515.
+
+At end of deposition @ 1615, laser, heater, substrate rotation, target rotation, and mirror rastering turned off. Substrate shutter closed.
+
+Beam energy measured again (137 mJ); value listed at right is average of initial and final beam energies. Laser pressure is now 2980 mbar. Average beam energy at target is about 50.9 mJ.
+
+After cooling 37 min (to 75 C) at listed O2 pressure, O2 turned off.
+
+New substrates cleaned as before. Vented chamber with N2, and removed samples and target. New substrates loaded. Target pictures taken. Target cleaned as on 8/11/16 and loaded. Chamber pumped out with turbopump @ 1727. Pump valves closed and pumps turned off. Will repeat above deposition procedures, but at a different substrate temperature.
+
+>>> Settings <<<
+Z-stage position (mm): 51
+Background gas: O2
+Gas flow rate (sccm): 10
+Gas pressure (mTorr): 15
+Heater setpoint (C): ambient
+Substrate rotation rate (rpm): 10
+Target rotation rate (rpm): 10
+Deposition time (min, sec): 60, 00
+Laser beam energy at exit (mJ): 142
+Laser beam energy at chamber window (mJ): 52.7
+Laser beam spot size (mm): 
+Laser repetition rate (Hz): 10
+Laser beam raster speed setting (single target or side A): 60
+Laser beam raster speed setting (side B):
+Custom 1:
+Custom 2:
+Custom 3:
+
+>>> X1,Y1,Y2,Y3 data description (Y1, Y2, and Y3, as needed) <<<
+X1 source: Dell Latitude 5440 laptop computer
+X1 quantity: time
+X1 units: sec
+Y1 source: InstruTech 402 Hornet vacuum gauge
+Y1 quantity: gas pressure
+Y1 units: mTorr
+Y2 source:
+Y2 quantity:
+Y2 units:
+Y2 source:
+Y3 quantity:
+Y3 units:
+
+>>> X,Y1,Y2,Y3 data (comma separated) <<<
+0.000, 15.0
+1.205, 15.0
+2.410, 14.9
+3.615, 14.8
+4.839, 15.1

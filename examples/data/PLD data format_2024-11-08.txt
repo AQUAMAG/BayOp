@@ -1,0 +1,56 @@
+>>> General <<<
+Filename:
+Equipment/system:
+Operator name(s):
+Start date:
+Start time:
+First sample ID:
+Last sample ID:
+Laser wavelength (nm):
+Target ID:
+Target diameter (in):
+Single target composition:
+Split target side A composition:
+Split target side B composition:
+Substrate(s) (material, orientation, size): 
+Custom 1:
+Custom 2:
+Custom 3:
+
+>>> Notes <<<
+Type notes here
+
+>>> Settings <<<
+Z-stage position (mm):
+Background gas:
+Gas flow rate (sccm):
+Gas pressure (mTorr):
+Heater setpoint (C):
+Substrate rotation rate (rpm):
+Target rotation rate (rpm):
+Deposition time (min, sec):
+Laser beam energy at exit (mJ):
+Laser beam energy at chamber window (mJ):
+Laser beam spot size (mm):
+Laser repetition rate (Hz):
+Laser beam raster speed setting (single target or side A):
+Laser beam raster speed setting (side B):
+Custom 1:
+Custom 2:
+Custom 3:
+
+>>> X1,Y1,Y2,Y3 data description (Y1, Y2, and Y3, as needed) <<<
+X1 source:
+X1 quantity:
+X1 units:
+Y1 source:
+Y1 quantity:
+Y1 units:
+Y2 source:
+Y2 quantity:
+Y2 units:
+Y3 source:
+Y3 quantity:
+Y3 units:
+
+>>> X,Y1,Y2,Y3 data (comma separated) <<<
