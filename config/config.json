@@ -1,10 +1,16 @@
 {
     "pbounds": {
-      "a": [2, 4],
-      "b": [-3, 3],
-      "c": [-8, 3],
-      "d": [0, 5],
-      "e": [-2, 2]
+      "zStagePosition": [0, 51],
+      "flowRate": [0, 10],
+      "pressure": [0, 125],
+      "heaterSetpoint": [0, 1000],
+      "substrateRotation": [0, 30],
+      "targetRotation": [0, 30],
+      "depositionTime": [0, 1000],
+      "laserEnergy": [0, 500],
+      "laserSpotSize": [0, 5],
+      "laserRepetitionRate": [0, 100],
+      "coolingTime" : [0, 1000]
     },
     "optimizer_settings": {
       "init_points": 5,
