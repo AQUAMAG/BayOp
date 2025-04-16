@@ -1,0 +1,2 @@
+Z-Stage Position (mm),Flow Rate (sccm),Pressure (mTorr),Heater Setpoint (C),Substrate Rotation (RPM),Target Rotation (RPM),Deposition Time (min),Laser Energy (mJ),Laser Spot Size (mm^2),Laser Repetition Rate (Hz),Cooling Time (min)
+33,10,35,600,10,10,60,235,2.83,10,19
